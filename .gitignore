@@ -1,2 +1,7 @@
 .DS_Store
 target
+main.out
+out
+.repl
+.cljs_rhino_repl
+.java-version
